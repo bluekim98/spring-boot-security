@@ -1,0 +1,10 @@
+/.gradle/**
+/.idea/**
+/build/**
+/gradle/**
+/.gitignore.swp
+/gradlew
+/gradlew.bat
+/HELP.md
+/settings.gradle
+/src/main/resources/application-oauth.properties
